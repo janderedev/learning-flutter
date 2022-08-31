@@ -21,7 +21,7 @@ class _AppState extends State<App> {
         primarySwatch: Colors.blue,
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Deez Nuts'),
+      home: const MyHomePage(),
     );
   }
 }
